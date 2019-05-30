@@ -1,3 +1,3 @@
 files:
   - source: /**/en-GB/*.ini
-    translation: /test/tester/en-GB/%two_letters_code%.%file_extension%
+    translation: /test/tester/%locale%.%file_extension%
